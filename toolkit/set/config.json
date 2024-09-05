@@ -10,7 +10,7 @@
     "public": false,
     "ai_interactive": {
       "group": false,
-      "private": true,
+      "private": false,
       "energy": false
     },
     "autotyping": false,
