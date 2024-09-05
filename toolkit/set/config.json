@@ -5,9 +5,9 @@
   "botname": "(Experimental) -▪︎ Bella-AI",
   "botfullname": "Bella Clarissa",
   "botnickname": "Bella",
-  "ownername": "rifza",
+  "ownername": "runaa",
   "cfg": {
-    "public": true,
+    "public": false,
     "ai_interactive": {
       "group": false,
       "private": true,
@@ -15,7 +15,7 @@
     },
     "autotyping": false,
     "autoreadpc": false,
-    "autoreadgc": true,
+    "autoreadgc": false,
     "first": {
       "energy": 200,
       "flow": 1,
@@ -68,11 +68,11 @@
   },
   "api": {
     "rifza": {
-      "key": "Bell409",
+      "key": "AzfirJs",
       "url": "https://rifza.me"
     },
     "xterm": {
-      "key": "Bell409",
+      "key": "AzfirJs",
       "url": "https://ai.xterm.codes"
     }
   }
